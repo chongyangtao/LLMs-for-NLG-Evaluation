@@ -7,6 +7,11 @@
 ## 💡 News
 - **2024-1-13**: 📃 We release a survey paper on LLM for NLG/text generation evaluation. "[Leveraging Large Language Models for NLG Evaluation: A Survey](https://arxiv.org/abs/2401.07103)". Welcome to read and cite it. We are looking forward to your feedback and suggestions.
 
+<div align="center">
+  <img src="imgs/generative_eval.jpg" alt="LLM for NLG Evaluation" width="400"><br>
+</div>
+<!-- <br> -->
+
 ## 📒 Table of Contents
 - [⭐ Introduction](#-introduction)
 - [📃 Papers](#awesome-llm-for-nlg-evaluation-papers)
@@ -34,6 +39,8 @@
 - [🔍 Resources](#-resources)
     - [Tools](#tools)
 - [🚩 Citation](#-citation)
+
+
 
 --- 
 
@@ -195,6 +202,17 @@ We hope this repository can help researchers and practitioners to get a better u
 - Wider and Deeper LLM Networks are Fairer LLM Evaluators [[paper]](https://arxiv.org/abs/2308.01862)
 - Automatic Evaluation of Attribution by Large Language Models [[paper]](https://arxiv.org/abs/2305.06311)
 - AlignBench: Benchmarking Chinese Alignment of Large Language Models [[paper]](https://arxiv.org/abs/2311.18743)
+
+
+<br>
+<div align="left">
+  <img src="imgs/summ.jpg" alt="LLM evaluation" width="700"><br>
+  <sup><sup>Automatic metrics proposed (✓) and adopted (*) for various NLG tasks. REF indicate the method is source context-free. MT: Machine Translation, TS: Text Summarization, DG: Dialogue Generation, IC: Image Captioning, D2T: Data-to-Text, SG: Story Generation, GE: General Generation. We adopted the evaluation aspects for different tasks from Fu et al. (2023). Specifically, for each evaluation aspect, CON: consistency, COH: coherence, REL: relevance, FLU: fluency, INF: informativeness, COV: semantic coverage, ADE: adequacy, NAT: naturalness, ENG: engagement, GRO: groundness, GRAM: grammaticality, LIK: likability, PER: personalization, QUA: quality, INT: interest, USE: usefulness, HARM: harmlessness, ACC: accuracy, FAC: factuality, ADA: adaptability, SUR: surprise, CHA: character, END: ending, FEA: feasibility, CRE: creativity, THO: thoroughness, STR: structure, LAY: layout, CLA: clarity, COM: comprehensiveness, FPR: formality, ADH: adherence, DEP: topic depth, UND: understandability, FLE: flexibility, INQ: inquisitiveness, SPE: specificity, COR: correctness, SEM: semantic appropriateness. NONE means that the method does not specify any aspects and gives an overall evaluation. The detailed explanation of each evaluation aspect can be found in Fu et al. (2023).</sup></sup>
+</div>
+<br>
+
+
+
 
 <a id="-resources"></a>
 ## 🔍 Resources
